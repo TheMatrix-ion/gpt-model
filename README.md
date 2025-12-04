@@ -70,5 +70,3 @@ m2.save("model_v2.bin")
 - Keep changes minimal and well-documented.
 - If adding features to v2, keep backwards compatibility in mind or document breaking changes.
 
-## License
-- Check repository root for license file or add license information here.
